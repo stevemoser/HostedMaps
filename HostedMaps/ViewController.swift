@@ -7,11 +7,13 @@
 //
 
 import UIKit
+import ArcGIS
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("Hello From App")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
